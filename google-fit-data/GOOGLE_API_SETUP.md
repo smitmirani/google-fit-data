@@ -54,8 +54,8 @@ This guide will walk you through obtaining all the necessary Google API credenti
    - Click **"Create"**
 
 6. A popup will appear with your credentials:
-   - **Your Client ID**: Copy this (looks like: `1042888753450-b7fd2699pm2birg04928uqeb0uml7f16.apps.googleusercontent.com`)
-   - **Your Client Secret**: Copy this (looks like: `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`)
+   - **Your Client ID**: Copy this (looks like: `1)
+   - **Your Client Secret**: Copy this (looks like: ``)
 
 **⚠️ Important:** Save these credentials securely. You won't be able to see the client secret again after closing this popup.
 
@@ -64,7 +64,7 @@ This guide will walk you through obtaining all the necessary Google API credenti
 1. Still in **"APIs & Services"** > **"Credentials"**
 2. Click **"+ CREATE CREDENTIALS"** again
 3. Select **"API key"**
-4. A popup will appear with your API key (looks like: `AIzaSyCXXwwx6yst8xAEVqMgQ5GnU3lvS5MqQNM`)
+4. A popup will appear with your API key (looks like: ``)
 5. Click **"Restrict key"** (recommended for security):
    - Under **"API restrictions"**, select **"Restrict key"**
    - Check **"Fitness API"**
