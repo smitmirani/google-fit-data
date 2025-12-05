@@ -91,15 +91,6 @@ redirect_uri: 'http://localhost'
 project_id: 'YOUR_PROJECT_ID_HERE'
 ```
 
-**Example:**
-```yaml
-client_id: '123456789-abcdefghijklmnop.apps.googleusercontent.com'
-client_secret: 'GOCSPX-abcdefghijklmnopqrstuvwxyz'
-fitness_api_key: 'AIzaSyAbCdEfGhIjKlMnOpQrStUvWxYz1234567'
-redirect_uri: 'http://localhost'
-project_id: 'my-google-fit-project-123456'
-```
-
 ### Step 7: Verify Your Setup
 
 1. Make sure `secrets.yml` is in the root directory: `/Users/smit.mirani/repos/google-fit-data/secrets.yml`
